@@ -25,7 +25,7 @@ Instalar dependências
 - yarn ou npm install
 
 Rode o projeto
-- yarn dev ou npm dev
+- yarn dev ou npm run dev
 
 ## Tecnologias
 
