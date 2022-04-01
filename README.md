@@ -16,6 +16,17 @@ O objetivo geral desse projeto é a melhor visualização de eventos que acontec
 
 ![](https://github.com/brunopapait/scheduler-timeline-horizontal/blob/main/Peek%2028-03-2022%2023-59.gif)
 
+## Para utilizar
+
+Clonar o projeto
+- git clone https://github.com/brunopapait/scheduler-timeline-horizontal.git
+
+Instalar dependências
+- yarn ou npm install
+
+Rode o projeto
+- yarn dev ou npm dev
+
 ## Tecnologias
 
 Além de utilizar a bilbioteca React, utilizei também:
