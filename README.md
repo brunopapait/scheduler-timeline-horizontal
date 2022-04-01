@@ -27,6 +27,9 @@ Instalar dependências
 Rode o projeto
 - yarn dev ou npm run dev
 
+Acessar no navegador de sua preferência
+- http://localhost:3000
+
 ## Tecnologias
 
 Além de utilizar a bilbioteca React, utilizei também:
