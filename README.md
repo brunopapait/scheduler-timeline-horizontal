@@ -6,7 +6,7 @@ Este é um projeto para o gerenciamento e a visulização de eventos de um deter
 
 ## Motivo
 
-Depois de me deparar com um problema em uma aplicação no qual precisava de um componente do tipo scheduler timeline horizontal, resolvi procurar na internet, compoenentes, exemplos de outras pessoas que no qual me ajudaria resolver o meu problema, encontrei algumas coisas, explicações e alguns componentes, mas especificamente para oque eu precisava fazer os que encontrei não iria me ajudar, então resolvi criar o meu próprio componente, que além de utilizar novas tecnologias para meu aprendizado, conssegui alcançar o objetivo no qual eu esperava, um componente simples e performático. 
+Depois de me deparar com um problema em uma aplicação no qual precisava de um componente do tipo scheduler timeline horizontal, resolvi procurar na internet, componentes, exemplos de outras pessoas que no qual me ajudaria resolver o meu problema, encontrei algumas coisas, explicações e alguns componentes, mas especificamente para oque eu precisava fazer os que encontrei não iria me ajudar, então resolvi criar o meu próprio componente, que além de utilizar novas tecnologias para meu aprendizado, conssegui alcançar o objetivo no qual eu esperava, um componente simples e performático. 
 
 ## Objetivo
 
